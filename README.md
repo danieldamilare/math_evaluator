@@ -1,4 +1,3 @@
-This is m
 A simple basic math expression  parser that support primitive operators (+, -, /, *)
 written using recursive descent and shunting-yard algorithm 
 To run the first program
