@@ -11,3 +11,6 @@ and the second program
 gcc -Wall  math_expr.c -o math_expr
 ```
 
+Based on this [codewar kata](https://www.codewars.com/kata/52a78825cdfc2cfc87000005/)
+
+
