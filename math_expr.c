@@ -10,6 +10,7 @@ int check_prec(char ch);
 double _calculate(double num1, double num2, char operator);
 int count_digit(const char * ptr);
 
+/* Uses shunting yard algorithm to calculate a mathematical expression */
 double calculate(const char * expression){
     printf("expr: %s\n", expression);
     char prev ='\0';
